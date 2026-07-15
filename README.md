@@ -29,8 +29,8 @@ The script targets and parses the following data points for each game:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
-   cd YOUR-REPO-NAME
+   git clone https://github.com/gloriousjustice/Coursera_Automation-and-Scripting-with-Python_activity-web-scraping-and-data-processing
+   cd https://github.com/gloriousjustice/Coursera_Automation-and-Scripting-with-Python_activity-web-scraping-and-data-processing
    ```
 
 2. **Install dependencies:**
